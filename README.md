@@ -1,4 +1,6 @@
-# Desafio de projeto do Felipão: Mario Kart.JS
+# Simulador de Corridas do Mario Kart com Node.js
+
+![Print](./docs/print.png)
 
 ![Mario Kart](./docs/header.gif)
 
